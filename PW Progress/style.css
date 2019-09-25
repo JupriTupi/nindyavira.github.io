@@ -1,0 +1,13 @@
+body {
+    margin:25px;
+    padding:25px;
+    background-size: 100%;
+    background-image:url("https://www.educenter.id/wp-content/uploads/2018/07/Belajar-Bersama-Teman.jpg");
+    background-repeat:no-repeat ;
+  
+    }
+    .table1{
+        background-color: rgb(228, 137, 247, 0.8);
+        text-align: center;
+        font-weight: bold;
+    }
