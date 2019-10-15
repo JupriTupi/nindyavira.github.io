@@ -1,0 +1,112 @@
+body{
+    background-size: 100%;
+    background-image:url("bckground.JPG");
+    background-repeat:no-repeat ;
+    
+}
+.akademik .out{
+	margin-right: 20px;
+    float: right;
+    margin-top: 10px;
+}
+
+.akademik .ak{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 15%;
+	text-decoration: none;
+    color: black;
+    float: left;
+    top: 24%;
+    position: absolute;
+    height: 98px;
+    border: 1px solid white;
+    text-align: center;
+    padding-top: 50px;
+    width: 25%;
+    margin: 10px;
+    font-size: 170%;
+    border-radius: 70px;
+    background-color: white;
+    opacity: 0.8;
+}
+.akademik .peng{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 15%;
+	text-decoration: none;
+    color: black;
+    float: left;
+    top: 60%;
+    position: absolute;
+    height: 98px;
+    border: 1px solid white;
+    text-align: center;
+    padding-top: 50px;
+    width: 25%;
+    margin: 10px;
+    font-size: 170%;
+    border-radius: 70px;
+    background-color: white;
+    opacity: 0.8;
+}
+.akademik .judul{
+    font-family: Lohit Telugu;
+    text-align: center;
+    margin-left: 5%;
+	text-decoration: none;
+	font-size: 40px;
+	margin-top: 0;
+    color: white;
+}
+.akademik .halut{
+    font-family: Lohit Telugu;
+    position: absolute;
+    margin-left: 46%;
+	text-decoration: none;
+	font-size: 30px;
+    color: white;
+    padding-top: 10px;
+}
+.akademik .bant{
+    font-family: Lohit Telugu;
+    margin-left: 65%;
+    position: absolute;
+	text-decoration: none;
+	font-size: 30px;
+    color: white;
+    padding-top: 10px;
+}
+.akademik .kep{
+    position: absolute;
+	margin-right: 10px;
+    float: right;
+    margin-left: 54%;
+    padding-top: 6%;
+    height: 100px;
+    
+}
+.akademik .prek{
+    font-family: Lohit Telugu;
+    position: absolute;
+    margin-left: 59%;
+	text-decoration: none;
+	font-size: 30px;
+    color: black;
+    padding-top: 15%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.skl .sd{
+    font-family: Lohit Telugu;
+    position: absolute;
+    margin-left: 60%;
+	text-decoration: none;
+	font-size: 20px;
+    color: black;
+    top: 60%;
+    text-align: center;
+    background-color: black;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+

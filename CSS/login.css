@@ -1,0 +1,64 @@
+body {
+    background-size: 100%;
+    background-image:url("bglogin.JPG");
+    background-repeat:no-repeat ;
+    }
+.era{
+    position: absolute;
+    top: 6%;
+    margin-left: 40%;
+    text-decoration: none;
+    color:white;
+    font-size: 250%; 
+    padding: 5px 50px 5px 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.lupa{
+    position: absolute;
+    top: 69%;
+    margin-left: 47%;
+    text-decoration: none;
+    color:black;
+    font-size: 150%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sd{
+    position: absolute;
+    top:18%;
+    margin-left: 34%;
+    text-decoration: none;
+    color:white;
+    font-size: 250%; 
+    padding: 5px 50px 5px 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.login{
+    width: 25%;
+    margin-left: 38%;
+    margin-top: 20%;
+}
+
+.masuk .msk{
+    margin-top: 70px;
+    background: #8a8a8a;
+    left: 0%;
+    margin-left: 47%;
+    width: 22%;
+    font-size: 200%;
+    border-radius: 10px;
+    cursor: pointer;
+    height: 40px;
+    float: right;
+    margin-right: 39%;
+    text-align: center;
+    color: black;
+
+}
+input[type=text],input[type=password]{
+    width: 89%;
+    margin: 10px;
+    font-size: 120%;
+    height: 40px;
+    border-radius: 10px;
+
+}
