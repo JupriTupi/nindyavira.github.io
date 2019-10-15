@@ -1,0 +1,96 @@
+body{
+    margin:0;
+    background: url('background.JPG');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: fixed;
+    width: 100%;
+    background-color: darkgrey;
+}
+.header{
+    width: 100%;
+    float: left;
+    height: 70px;
+    
+}
+.sub-header {
+    width: 240px;
+    font-family: sans-serif;
+    float: right;
+	margin-right:20px;
+	font-size: 25px;
+	margin-top: 5px;
+}
+.sub-header .msk{
+    background: rgba(166, 166, 166, 0.5);
+	text-decoration: none;
+    width: auto;
+    float: left;
+    padding: 15px 15px;
+    margin:10px 2px;
+    border-radius: 30px;;
+    color: white;
+
+}
+
+.sub-header .dftr{
+    background: rgba(255, 255, 255, 0.5);
+	text-decoration: none;
+    width: auto;
+    float: left;
+    padding: 15px 15px;
+    margin:10px 2px;
+    border-radius: 30px;;
+    color: white;
+
+}
+.isi .text1{
+    margin-top: 27%;
+    margin-right: 10%;
+    margin-bottom: 0;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	text-align: right;
+	text-decoration: none;
+    color:white;
+    font-size: 39px; 
+    
+}
+.isi .text2{
+    margin-top: 0;
+    margin-right: 10%;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	text-align: right;
+	text-decoration: none;
+    color:white;
+    font-size: 39px;    
+}
+    
+
+@media (max-width: 800px){
+    .sub-header {
+        width: 170px;
+        font-family: sans-serif;
+        float: right;
+        margin-right:20px;
+        font-size: 20px;
+        margin-top: 5px;
+    }
+
+    
+    .sub-header .msk{
+        padding: 10px 10px;
+        border-radius: 20px;;
+    
+    }
+    .sub-header .dftr{
+        padding: 10px 10px;
+        border-radius: 20px;;
+    
+    }
+    .isi .text1{
+        font-size: 20px;
+    }
+    .isi .text2{
+        font-size: 20px;
+    }
+}
